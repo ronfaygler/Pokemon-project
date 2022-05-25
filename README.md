@@ -1,2 +1,3 @@
 # Pokemon-project
-C language
+in C language.
+the project is about pokemons fights. In the project the input is a file with details about pokemons. Those pokemons get created and insert into a max heap by their strength value. The nodes of the heap are linked lists. Every linked list include pokemons of the same type. The user can make some actions like create a pokemon, delete one, and the main action - Pokemon's battles. This battle is between a new pokemon - the user defines and the code chooses the best pokemon against this specific pokemon, from the current pokemons in the heap. The user gets the results of this fight. 
