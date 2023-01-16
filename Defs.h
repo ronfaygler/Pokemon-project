@@ -1,7 +1,7 @@
 #ifndef DEFS_H
 #define DEFS_H
 
-//possible return value
+//possible return values
 typedef enum e_bool { false,true } bool;
 typedef enum e_status { success, failure, memory } status;
 //generic ADT
